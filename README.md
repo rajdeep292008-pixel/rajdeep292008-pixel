@@ -79,14 +79,11 @@ I am a software builder specializing in an **AI-augmented engineering paradigm**
 
 ---
 
-🛠️ AREAS OF ENGINEERING EXPERTISE
-Web Prototyping: Rapidly translating concepts into functional, responsive web interfaces that perform across devices.
-
-AI-Augmented Implementation: Expert at orchestrating AI-driven workflows to architect and refine clean, modular codebases.
-
-System Debugging: A disciplined, browser-first testing process to ensure logic stability and UI consistency in prototype environments.
-
-Full-Stack Foundation: Building data-connected applications with a focus on logical flow, component modularity, and clean user-experience design.
+## 🛠️ AREAS OF ENGINEERING EXPERTISE
+* **Web Prototyping:** Rapidly translating concepts into functional, responsive web interfaces that perform across devices.
+* **AI-Augmented Implementation:** Expert at orchestrating AI-driven workflows to architect and refine clean, modular codebases.
+* **System Debugging:** A disciplined, browser-first testing process to ensure logic stability and UI consistency in prototype environments.
+* **Full-Stack Foundation:** Building data-connected applications with a focus on logical flow, component modularity, and clean user-experience design.
 
 ---
 
