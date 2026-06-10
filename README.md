@@ -2,7 +2,16 @@
 # 🪐 TRANSMISSION INITIALIZED // WELCOME TO MY CODESPACE
 
 <p align="center">
-  <img src="9bc27292880429.5e569ff84e4d0.gif" width="700" alt="Pixel Art Animation" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="gif1.gif" width="300" alt="Hacker Animation 1" />
+      </td>
+      <td align="center">
+        <img src="gif2.gif" width="300" alt="Hacker Animation 2" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 ### 🤖 AI-Collaborative Developer & Frontend Prototype Engineer
