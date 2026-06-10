@@ -4,6 +4,10 @@
 ### 🤖 AI-Collaborative Developer & Frontend Prototype Engineer
 > Accelerating modern web engineering through advanced Human-AI synergy. Transforming abstract concepts into highly responsive, functional digital architectures.
 
+<p align="center">
+  <img src="https://your-link-to-the-hacker-gif.gif" width="400" />
+</p>
+
 ---
 
 ## ⚡ TECH MATRIX & APPARATUS
