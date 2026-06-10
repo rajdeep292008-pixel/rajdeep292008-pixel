@@ -5,10 +5,10 @@
   <table>
     <tr>
       <td align="center">
-        <img src="9bc27292880429.5e569ff84e4d0.gif" width="399" alt="Hacker Animation 1" />
+        <img src="9bc27292880429.5e569ff84e4d0.gif" width="397" alt="Hacker Animation 1" />
       </td>
       <td align="center">
-        <img src="222829.gif" width="399" alt="Hacker Animation 2" />
+        <img src="222829.gif" width="397" alt="Hacker Animation 2" />
       </td>
     </tr>
   </table>
