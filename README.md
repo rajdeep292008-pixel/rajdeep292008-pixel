@@ -19,13 +19,13 @@
 ## 🔮 OPERATIONAL TELEMETRY & ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MANHATTAN&show_icons=true&theme=synthwave&count_private=true&hide_border=true" alt="Core Telemetry" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajdeep292008-pixel&show_icons=true&theme=synthwave&count_private=true&hide_border=true" alt="Core Telemetry" width="48%" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANHATTAN&layout=compact&theme=synthwave&hide_border=true" alt="Language Matrix" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdeep292008-pixel&layout=compact&theme=synthwave&hide_border=true" alt="Language Matrix" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MANHATTAN&theme=tokyonight&hide_border=true" alt="Activity Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajdeep292008-pixel&theme=tokyonight&hide_border=true" alt="Activity Streak" width="97%" />
 </p>
 
 ---
