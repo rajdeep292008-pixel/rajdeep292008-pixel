@@ -1,6 +1,10 @@
 # MANHATTAN
 # 🪐 TRANSMISSION INITIALIZED // WELCOME TO MY CODESPACE
 
+<p align="center">
+  <img src="header-animation.gif" width="700" alt="Pixel Art Animation" />
+</p>
+
 ### 🤖 AI-Collaborative Developer & Frontend Prototype Engineer
 > Accelerating modern web engineering through advanced Human-AI synergy. Transforming abstract concepts into highly responsive, functional digital architectures.
 
