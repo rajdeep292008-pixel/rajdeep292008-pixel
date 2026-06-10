@@ -5,8 +5,12 @@
 > Accelerating modern web engineering through advanced Human-AI synergy. Transforming abstract concepts into highly responsive, functional digital architectures.
 
 <p align="center">
-  <img src="https://your-link-to-the-hacker-gif.gif" width="400" />
+  <img src="header-animation.gif" width="700" alt="Pixel Art Animation" />
 </p>
+
+# Hi there! I'm a Student Engineer & Meta-Builder 👋
+
+I am a software builder specializing in an **AI-augmented engineering paradigm**...
 
 ---
 
