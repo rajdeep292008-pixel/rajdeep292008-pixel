@@ -18,8 +18,6 @@
 
 ## 🔮 OPERATIONAL TELEMETRY & ANALYTICS
 
-## 🔮 OPERATIONAL TELEMETRY & ANALYTICS
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rajdeep292008-pixel&show_icons=true&theme=synthwave&count_private=true&include_all_commits=true&hide_border=true" alt="Core Telemetry" width="48%" />
   
