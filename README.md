@@ -4,10 +4,6 @@
 ### 🤖 AI-Collaborative Developer & Frontend Prototype Engineer
 > Accelerating modern web engineering through advanced Human-AI synergy. Transforming abstract concepts into highly responsive, functional digital architectures.
 
-<p align="center">
-  <img src="9bc27292880429.5e569ff84e4d0.gif" width="700" alt="Pixel Art Animation" />
-</p>
-
 # Hi there! I'm a Student Engineer & Meta-Builder 👋
 
 I am a software builder specializing in an **AI-augmented engineering paradigm**...
