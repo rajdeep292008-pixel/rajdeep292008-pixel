@@ -92,4 +92,10 @@ I am a software builder specializing in an **AI-augmented engineering paradigm**
 - ⚡ **AI-Powered Learning:** Using artificial intelligence as a personal coding tutor to accelerate my technical engineering skills.
 - 🛠️ **Next Up:** Leveling up my JavaScript knowledge and experimenting with brand new project frameworks!
 
+- <p align="center">
+  <a href="https://github.com/rajdeep292008-pixel">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
+</p>
+
 *Driven by human curiosity. Powered by synthetic intelligence. 🧪*
