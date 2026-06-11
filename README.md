@@ -49,6 +49,7 @@ I am a software builder specializing in an **AI-augmented engineering paradigm**
 ![Bolt.new](https://img.shields.io/badge/Bolt.new-007AFF?style=for-the-badge&logo=bolt&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/Perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-%23667381.svg?style=for-the-badge&logo=replit&logoColor=white)
 
 #### Web Prototyping
 ![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
