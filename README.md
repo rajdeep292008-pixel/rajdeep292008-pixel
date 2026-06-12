@@ -47,6 +47,7 @@ I am a software builder specializing in an **AI-augmented engineering paradigm**
 ![ChatGPT](https://img.shields.io/badge/chatgpt-%2374aa9c.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![Lovable](https://img.shields.io/badge/Lovable-000000?style=for-the-badge&logo=appveyor&logoColor=white)
 ![Bolt.new](https://img.shields.io/badge/Bolt.new-007AFF?style=for-the-badge&logo=bolt&logoColor=white)
+![Emergent AI](https://img.shields.io/badge/Emergent-AI-6A1B9A.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/Perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-%23667381.svg?style=for-the-badge&logo=replit&logoColor=white)
