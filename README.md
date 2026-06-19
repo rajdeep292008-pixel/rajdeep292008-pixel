@@ -18,7 +18,7 @@
 
 ### 📈 Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajdeep292008-pixel&theme=github-dark&bg_color=000000&color=00FFFF&line=39FF14&point=00FFFF&hide_border=true&custom_title=My%20Coding%20Activity&width=350)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajdeep292008-pixel&theme=github-dark&bg_color=000000&color=00FFFF&line=39FF14&point=00FFFF&hide_border=true&custom_title=My%20Coding%20Activity&width=400)
 
 ---
 
