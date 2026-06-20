@@ -107,6 +107,5 @@ I am a software builder specializing in an **AI-augmented engineering paradigm**
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
 </p>
-<img src="https://komarev.com/ghpvc/?username=rajdeep292008-pixel&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
 
 *Driven by human curiosity. Powered by synthetic intelligence. 🧪*
