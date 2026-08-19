@@ -22,6 +22,12 @@
 
 ---
 
+<a href="https://tryhackme.com/p/MrGreyHatHacker">
+  <img src="https://tryhackme-rest-api.herokuapp.com/v2/badges/MrGreyHatHacker" alt="TryHackMe Stats" />
+</a>
+
+---
+
 ### 🤖 AI-Collaborative Developer & Frontend Prototype Engineer
 > Accelerating modern web engineering through advanced Human-AI synergy. Transforming abstract concepts into highly responsive, functional digital architectures.
 
