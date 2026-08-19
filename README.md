@@ -22,9 +22,8 @@
 
 ---
 
-<a href="https://tryhackme.com/p/MrGreyHatHacker">
-  <img src="https://tryhackme-rest-api.herokuapp.com/v2/badges/MrGreyHatHacker" alt="TryHackMe Stats" />
-</a>
+<a href="https://tryhackme.com/signup?referrer=6606c6ff813081fdb556602e"><img src="https://tryhackme-badges.s3.amazonaws.com/MrGreyHatHacker.png" alt="TryHackMe"></a>
+<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px>
 
 ---
 
