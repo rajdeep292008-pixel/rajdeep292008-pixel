@@ -22,9 +22,7 @@
 
 ---
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/
-MrGreyHatHacker.png)](https://tryhackme.com/p/
-MrGreyHatHacker)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/MrGreyHatHacker.png)](https://tryhackme.com/p/MrGreyHatHacker)
 
 ---
 
