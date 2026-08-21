@@ -114,18 +114,14 @@ I am a software builder specializing in an **AI-augmented engineering paradigm**
   <a href="https://devpost.com/rajdeep292008/challenges" target="_blank">
     <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost" />
   </a>
-</p>
-
-<p align="center">
-<a href="https://devfolio.co/@MANHATTEN" target="_blank">
-  <img src="https://img.shields.io/badge/View_Profile_on-DEVFOLIO-3770FF?style=for-the-badge&logo=devfolio&logoColor=white" alt="Devfolio Profile" />
-</a>
-</p>
-
- <p align="center">
-  <a href="https://github.com/rajdeep292008-pixel">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  <a href="https://devfolio.co/@MANHATTEN" target="_blank">
+    <img src="https://img.shields.io/badge/Devfolio-3770FF?style=for-the-badge&logo=devfolio&logoColor=white" alt="Devfolio Profile" />
+  </a>
+  <a href="https://github.com/rajdeep292008-pixel" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
 </p>
+
+---
 
 *Driven by human curiosity. Powered by synthetic intelligence. 🧪*
