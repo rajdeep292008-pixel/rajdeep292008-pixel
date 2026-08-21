@@ -111,6 +111,12 @@ I am a software builder specializing in an **AI-augmented engineering paradigm**
 ---
 
 <p align="center">
+  <a href="https://tryhackme.com/p/MrGreyHatHacker" target="_blank">
+    <img src="https://tryhackme-rest-api.herokuapp.com/v2/badges/MrGreyHatHacker" alt="TryHackMe Stats" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://devpost.com/rajdeep292008/challenges" target="_blank">
     <img src="https://img.shields.io/badge/Devpost_Profile-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost" />
   </a>
