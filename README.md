@@ -116,15 +116,11 @@ I am a software builder specializing in an **AI-augmented engineering paradigm**
   </a>
 </p>
 
----
-
 <p align="center">
   <a href="https://devfolio.co/@MANHATTEN" target="_blank">
     <img src="https://img.shields.io/badge/Devfolio_Profile-3770FF?style=for-the-badge&logo=devfolio&logoColor=white" alt="Devfolio" />
   </a>
 </p>
-
----
 
 <p align="center">
   <a href="https://github.com/rajdeep292008-pixel" target="_blank">
