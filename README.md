@@ -110,22 +110,27 @@ I am a software builder specializing in an **AI-augmented engineering paradigm**
 
 ---
 
-<div align="center">
-  <h3>🌐 Connect & Hack With Me</h3>
-  <p>
-    <a href="https://devpost.com/rajdeep292008/challenges" target="_blank">
-      <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost" />
-    </a>
-    <a href="https://devfolio.co/@MANHATTEN" target="_blank">
-      <img src="https://img.shields.io/badge/Devfolio-3770FF?style=for-the-badge&logo=devfolio&logoColor=white" alt="Devfolio" />
-    </a>
-    <a href="https://github.com/rajdeep292008-pixel" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-  </p>
-</div>
+<p align="center">
+  <a href="https://devpost.com/rajdeep292008/challenges" target="_blank">
+    <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost" />
+  </a>
+</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a473-11eb-8113-cd847580d9f1.gif" width="100%" />
+<hr width="30%" align="center" />
+
+<p align="center">
+  <a href="https://devfolio.co/@MANHATTEN" target="_blank">
+    <img src="https://img.shields.io/badge/Devfolio-3770FF?style=for-the-badge&logo=devfolio&logoColor=white" alt="Devfolio" />
+  </a>
+</p>
+
+<hr width="30%" align="center" />
+
+<p align="center">
+  <a href="https://github.com/rajdeep292008-pixel" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
