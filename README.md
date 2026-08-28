@@ -134,6 +134,12 @@ I am a software builder specializing in an **AI-augmented engineering paradigm**
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/ronith-roy-65a9a2414/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
 ---
 
 *Driven by human curiosity. Powered by synthetic intelligence. 🧪*
